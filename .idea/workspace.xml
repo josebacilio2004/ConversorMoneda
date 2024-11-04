@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e853b1e2-46bd-4c36-a7c7-704c2ca4c960" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ConversorMoneda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/conversor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_conversor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ConversorMoneda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ConversorMoneda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/conversor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/conversor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_conversor.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_conversor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
     "Python tests.Python tests in test_conversor.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "develop"
   }
 }]]></component>
   <component name="RunManager" selected="Python tests.Python tests in test_conversor.py">

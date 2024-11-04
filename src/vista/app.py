@@ -5,6 +5,7 @@ from src.logica.conversor import ConversorMoneda
 
 class ConversorApp:
     def __init__(self, root):
+        self.convertir = None
         self.root = root
         self.root.title("Conversor de Monedas")
         self.conversor = ConversorMoneda()

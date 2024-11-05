@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e853b1e2-46bd-4c36-a7c7-704c2ca4c960" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/conversor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/conversor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vista/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_conversor.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_conversor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop"
+    "git-widget-placeholder": "feature/monedaPeru",
+    "last_opened_file_path": "T:/ConversorMoneda_prof/ConversorMoneda"
   }
 }]]></component>
   <component name="RunManager" selected="Python.app">
